@@ -1,0 +1,5 @@
+__pycache__/
+*.nii.gz
+*.tar
+*.zip
+data/
